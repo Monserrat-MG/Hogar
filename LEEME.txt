@@ -1,0 +1,20 @@
+PROYECTO: BIENVENIDO A CASA ♡
+
+ARCHIVOS
+- index.html: portada con la ilustración completa. El botón luminoso lleva a hogar.html.
+- hogar.html: página interior con las seis secciones del proyecto.
+- estilos.css: estilos y diseño adaptable a computadora, tablet y celular.
+- animaciones.js: animaciones de entrada y botón de mensajes.
+- navegacion.js: desplazamiento suave de los enlaces internos.
+- portada-principal.png: ilustración exacta usada en la portada.
+- abrazo.svg: ilustración de las dos siluetas.
+- portada.svg: ilustración anterior conservada como recurso.
+- favicon.svg: icono de la pestaña.
+
+CÓMO ABRIR
+1. Extrae todos los archivos del ZIP en una misma carpeta.
+2. No cambies los nombres de los archivos ni los separes en subcarpetas.
+3. Abre index.html en tu navegador.
+4. Pulsa el botón luminoso de la portada para entrar a hogar.html.
+
+No necesita base de datos, servidor ni instalación de dependencias.
